@@ -4,7 +4,7 @@
 
 **Kumar Mukesh**
 
-**Degree:** Master of Science (MSc)
+**Degree:** Master of Data Science
 
 **University:** Liverpool John Moores University (LJMU)
 
