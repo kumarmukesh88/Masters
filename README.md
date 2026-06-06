@@ -16,7 +16,7 @@ The code has been written in colab Notebook form, and the work has been grouped 
 This project has been used to study how large language models can be used for automated course understanding.  
 Different prompt styles and model settings have been tested across several tasks.
 
-The main aim of the project has been to check how well language models can:
+The main aim of the project has been to check how well Prompts and language models combination can:
 
 - summarise course content
 - extract skills from course data
